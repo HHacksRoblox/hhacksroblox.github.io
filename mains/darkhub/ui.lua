@@ -1,3 +1,4 @@
+--made by DarkHub
 if game.CoreGui:FindFirstChild("MarkBeatsIsGay") then
     game.CoreGui.MarkBeatsIsGay:Destroy()
 end
