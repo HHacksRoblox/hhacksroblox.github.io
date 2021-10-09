@@ -1,6 +1,4 @@
---Give credits if u use anything :3
---this code is messy :rolling_eyes:
-
+--made by DarkHub
 repeat pcall(function()
     wait()
     BulletClient = getconnections(game:GetService("ReplicatedStorage")["RS_Package"].Assets.Remotes.Bullet.OnClientEvent)[1].Function
