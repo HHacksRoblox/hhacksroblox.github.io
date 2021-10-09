@@ -8,7 +8,7 @@ repeat pcall(function()
     RemoteKey = getupvalue(FuncNew,17)
 end) until BulletClient
 
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/NewUI"))()
+local lib = loadstring(game:HttpGet("https://hhacksroblox.github.io/mains/darkhub/ui.lua"))()
 main = lib:Window()
 
 Client = {
