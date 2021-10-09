@@ -10,8 +10,8 @@ if getconnections then
       end
   end
 end
-if game.GameId == 2429242760 then loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/BladeQuest'), true))() return end
-if game.GameId == 16680835 then loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Notoriety'), true))() return end
+if game.GameId == 2429242760 then loadstring(game:HttpGet(('https://hhacksroblox.github.io/mains/darkhub/BladeQuest.lua'), true))() return end
+if game.GameId == 16680835 then loadstring(game:HttpGet(('https://hhacksroblox.github.io/mains/darkhub/Notoriety.lua'), true))() return end
 if setclipboard then
   ---setclipboard('https://discord.gg/darkhub')
 end
